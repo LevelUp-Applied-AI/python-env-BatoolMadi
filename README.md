@@ -27,3 +27,10 @@ python -m pip install -r requirements-prework.txt
 2. Complete the work
 3. Push the branch and open a PR from your branch to `main`
 4. Submit the PR URL in TalentLMS
+
+# When to use each section
+1. When you would choose a Jupyter notebook over a script? 
+    answer: when we want to learn and explore since outputs appear immediately below each cell.
+2. When you would choose a script over a notebook?
+    answer: when we want to automated execution especially for production ready tasks.
+
